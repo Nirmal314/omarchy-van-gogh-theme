@@ -1,4 +1,4 @@
-A theme based on van gogh's paintings and colors for [Omarchy.org](https://omarchy.org).
+A theme inspired from van gogh's paintings and colors for [Omarchy.org](https://omarchy.org).
 
 <p align="center">
   <img src="preview/theme.png" alt="Theme Preview">
