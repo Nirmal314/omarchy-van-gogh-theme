@@ -1,0 +1,6 @@
+@define-color selected-text #e6b422; /* Highlight color */
+@define-color text #f5d76e; /* Main text color */
+@define-color base #0a192f; /* Main background */
+@define-color border #1c3a5e; /* Inactive/disabled text */
+@define-color foreground #f5d76e; /* Main text color */
+@define-color background #0a192f; /* Main background */

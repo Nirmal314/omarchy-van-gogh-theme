@@ -1,0 +1,61 @@
+theme[main_bg]="#0a192f"
+
+# Primary text (labels, program names)
+theme[main_fg]="#f2e2a4"
+theme[title]="#f2e2a4"
+
+# Active / attention
+theme[hi_fg]="#d9822b"
+
+# Selection
+theme[selected_bg]="#2c4668"
+theme[selected_fg]="#f2e2a4"
+
+# Inactive / secondary text
+theme[inactive_fg]="#8faac7"
+
+# Activity indicators, bars, usage
+theme[proc_misc]="#d9822b"
+
+# Structure only
+theme[cpu_box]="#4a78a8"
+theme[mem_box]="#4a78a8"
+theme[net_box]="#4a78a8"
+theme[proc_box]="#4a78a8"
+theme[div_line]="#2c4668"
+
+# Temperature
+theme[temp_start]="#4a78a8"
+theme[temp_mid]="#d9822b"
+theme[temp_end]="#f2e2a4"
+
+# CPU
+theme[cpu_start]="#4a78a8"
+theme[cpu_mid]="#d9822b"
+theme[cpu_end]="#f2e2a4"
+
+# Memory / Disk
+theme[free_start]="#4a78a8"
+theme[free_mid]="#d9822b"
+theme[free_end]="#f2e2a4"
+
+theme[cached_start]="#4a78a8"
+theme[cached_mid]="#d9822b"
+theme[cached_end]="#f2e2a4"
+
+theme[available_start]="#4a78a8"
+theme[available_mid]="#d9822b"
+theme[available_end]="#f2e2a4"
+
+theme[used_start]="#4a78a8"
+theme[used_mid]="#d9822b"
+theme[used_end]="#f2e2a4"
+
+# Network
+theme[download_start]="#4a78a8"
+theme[download_mid]="#d9822b"
+theme[download_end]="#f2e2a4"
+
+theme[upload_start]="#4a78a8"
+theme[upload_mid]="#d9822b"
+theme[upload_end]="#f2e2a4"
