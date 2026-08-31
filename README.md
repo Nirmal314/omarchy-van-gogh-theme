@@ -24,5 +24,10 @@ To install this theme:
 omarchy-theme-install https://github.com/Nirmal314/omarchy-van-gogh-theme
 ```
 
+## Compatibility
+
+Compatible with **Omarchy 4 (Quattro)**. The theme ships the new base24
+`colors.toml` (semantic + named colors)
+
 ## Neovim theme
 [https://github.com/Nirmal314/van-gogh.nvim](https://github.com/Nirmal314/van-gogh.nvim)

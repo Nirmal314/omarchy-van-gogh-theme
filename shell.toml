@@ -1,0 +1,136 @@
+# Omarchy shell surfaces for the van Gogh theme (Quattro / Omarchy 4)
+# Dark blue canvases with cream and gold accents, olive/brass highlights.
+# Colors mirror colors.toml; the running shell maps these into QML tokens.
+
+[bar]
+background       = "#0a192f"
+background-alpha = 1.0
+text             = "#f2e2a4"
+active           = "#e6b422"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
+
+[hyprland]
+active-border            = "#e6b422"
+active-border-foreground = "#f2e2a4"
+
+[controls]
+normal-color        = "#f2e2a4"
+normal-fill-alpha   = 0.04
+normal-border       = "#f2e2a4"
+normal-border-width = 1
+normal-border-alpha = 0.4
+
+hover-cursor-color        = "#f2e2a4"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border       = "#f2e2a4"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.25
+
+focus-color        = "#4a78a8"
+focus-fill-alpha   = 0.08
+focus-border       = "#4a78a8"
+focus-border-width = 1
+focus-border-alpha = 0.5
+
+selected-color        = "#e6b422"
+selected-fill-alpha   = 0.18
+selected-border       = "#e6b422"
+selected-border-width = 0
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.22
+selection-fill-alpha = 0.35
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background       = "#081226"
+background-alpha = 0.97
+text             = "#f2e2a4"
+border           = "#4a78a8"
+border-alpha     = 0.6
+border-width     = 1
+
+[tooltip]
+background       = "#081226"
+background-alpha = 0.97
+text             = "#f2e2a4"
+border           = "#2c4668"
+border-alpha     = 1.0
+
+[notifications]
+background       = "#081226"
+background-alpha = 0.97
+text             = "#f2e2a4"
+border           = "#e6b422"
+border-alpha     = 0.8
+countdown        = "#4a78a8"
+
+[launcher]
+background                = "#0a192f"
+background-alpha          = 0.95
+text                      = "#f2e2a4"
+border                    = "#4a78a8"
+border-alpha              = 0.6
+scrim                     = "#060d1e"
+scrim-alpha               = 0.5
+selected-background       = "#e6b422"
+selected-background-alpha = 0.12
+selected-text             = "#e6b422"
+selected-border           = "#e6b422"
+selected-border-alpha     = 0.35
+
+[menu]
+background                = "#081226"
+background-alpha          = 0.98
+text                      = "#f2e2a4"
+border                    = "#4a78a8"
+border-alpha              = 0.6
+scrim                     = "#060d1e"
+scrim-alpha               = 0.5
+selected-background       = "#e6b422"
+selected-background-alpha = 0.12
+selected-text             = "#e6b422"
+selected-border           = "#e6b422"
+selected-border-alpha     = 0.35
+
+[polkit]
+background       = "#0a192f"
+background-alpha = 1.0
+text             = "#f2e2a4"
+text-error       = "#d9822b"
+border           = "#4a78a8"
+border-error     = "#d9822b"
+border-alpha     = 1.0
+scrim            = "#060d1e"
+scrim-alpha      = 0.5
+accent           = "#e6b422"
+
+[lock]
+background       = "#0a192f"
+background-alpha = 0.8
+text             = "#f2e2a4"
+placeholder      = "#8faac7"
+text-error       = "#d9822b"
+border           = "#4a78a8"
+border-active    = "#e6b422"
+border-error     = "#d9822b"
+border-alpha     = 1.0
+selection        = "#e6b422"
+selection-alpha  = 0.45
+
+[image-picker]
+scrim                   = "#060d1e"
+scrim-alpha             = 0.5
+text                    = "#f2e2a4"
+selected-border         = "#e6b422"
+selected-border-alpha   = 1.0
+unselected-border       = "#f2e2a4"
+unselected-border-alpha = 0.28
