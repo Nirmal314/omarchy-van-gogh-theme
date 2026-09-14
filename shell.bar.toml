@@ -1,0 +1,2 @@
+# Keep Omarchy's generated bar layout and override only the theme accent.
+active = "accent"
