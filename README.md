@@ -5,18 +5,6 @@ A dark theme for [Omarchy](https://omarchy.org), inspired by Vincent van Gogh's 
 <p align="center">
   <img src="preview/theme.png" alt="Theme Preview">
 </p>
-<p align="center">
-  <img src="preview/p1.png" alt="Theme Preview 1">
-</p>
-<p align="center">
-  <img src="preview/p2.png" alt="Theme Preview 2">
-</p>
-<p align="center">
-  <img src="preview/p3.png" alt="Theme Preview 3">
-</p>
-<p align="center">
-  <img src="preview/p4.png" alt="Theme Preview 4">
-</p>
 
 ## Wallpapers
 
