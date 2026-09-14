@@ -3,7 +3,7 @@ A dark theme for [Omarchy](https://omarchy.org), inspired by Vincent van Gogh's 
 ## Preview
 
 <p align="center">
-  <img src="preview/theme.png" alt="Theme Preview">
+  <img src="preview.png" alt="Theme Preview">
 </p>
 
 ## Wallpapers
