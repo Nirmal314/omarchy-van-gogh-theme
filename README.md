@@ -9,16 +9,11 @@ A dark theme for [Omarchy](https://omarchy.org), inspired by Vincent van Gogh's 
 ## Wallpapers
 
 <p align="center">
-  <img src="backgrounds/vg-1.jpg" alt="Theme Background 1" width="23%">
-  <img src="backgrounds/vg-2.jpg" alt="Theme Background 2" width="23%">
-  <img src="backgrounds/vg-3.jpg" alt="Theme Background 3" width="23%">
-  <img src="backgrounds/vg-4.jpg" alt="Theme Background 4" width="23%">
-</p>
-<p align="center">
-  <img src="backgrounds/vg-5.jpg" alt="Theme Background 5" width="23%">
-  <img src="backgrounds/vg-6.jpg" alt="Theme Background 6" width="23%">
-  <img src="backgrounds/vg-7.jpg" alt="Theme Background 7" width="23%">
-  <img src="backgrounds/vg-8.jpg" alt="Theme Background 8" width="23%">
+  <img src="backgrounds/vg-1.jpg" alt="Theme Background 1" width="18%">
+  <img src="backgrounds/vg-2.jpg" alt="Theme Background 2" width="18%">
+  <img src="backgrounds/vg-3.jpg" alt="Theme Background 3" width="18%">
+  <img src="backgrounds/vg-5.jpg" alt="Theme Background 5" width="18%">
+  <img src="backgrounds/vg-6.jpg" alt="Theme Background 6" width="18%">
 </p>
 
 ## Installation
